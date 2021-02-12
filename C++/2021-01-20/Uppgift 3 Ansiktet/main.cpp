@@ -3,7 +3,12 @@ using namespace std;
 
 int main()
 {
-   // system("chcp 1252"); // Sv. tecken
+   system("chcp 1252"); // Sv. tecken
+   
+   
+   
+   
+   
    // \ tecknet före betyder att nästa tecken inte är ett
    // specialtecken
    cout << " \" ";
