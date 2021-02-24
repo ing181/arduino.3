@@ -1,3 +1,4 @@
+  
 // Variabler använbara i hela programmet
 int tal;
 void setup() {
